@@ -205,47 +205,6 @@ Dashboard analítico
 
 Integração com apps de delivery
 
-- README.md — Padrão Profissional
-
-Abaixo está o README pronto para GitHub.
-
-- Sistema de Gestão de Lanchonete — PDV + Painel Administrativo
-
-Sistema web para gerenciamento operacional de lanchonetes com interface de pedidos para clientes e painel administrativo para controle interno.
-
-- Funcionalidades
-Cliente (PDV)
-
-Visualização de cardápio dinâmico
-
-Seleção de produtos por ID
-
-Geração de pedidos
-
-Token de compra
-
-Confirmação de pedido
-
-Interface responsiva e rápida
-
-Administração
-
-Login administrativo
-
-Monitoramento de pedidos
-
-Controle de status de produção
-
-Acompanhamento de pagamentos
-
-Gestão operacional em tempo real
-
-- Estrutura do Projeto
-.
-├── interface.html   → Interface do cliente
-├── adm.html         → Painel administrativo
-└── cardapio.json    → Base de dados do cardápio
-
 - Tecnologias Utilizadas
 
 HTML5
